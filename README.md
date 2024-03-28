@@ -1,2 +1,2 @@
 # tic-tac-toe
-It's a.... tic-tac-toe game
+A simple tic-tac-toe game with AI/bot I made for teaching materials that focuses on minimax algorithm application in games.
